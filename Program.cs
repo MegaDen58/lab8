@@ -32,7 +32,7 @@ public class Program
 {
     public static void Main()
     {
-        Class<String> text = new Class<String>();
+        Class<string> text = new Class<string>();
         Class<int> number = new Class<int>();
         Class<double> doubles = new Class<double>();
 
